@@ -1,0 +1,4 @@
+https://opusdei.org/pt-br/lastarticles.xml
+https://www.vaticannews.va/pt.rss.xml
+https://pt.aleteia.org/feed/
+https://ocatequista.com.br/index.php/component/k2/itemlist/category/1-blog?format=feed
